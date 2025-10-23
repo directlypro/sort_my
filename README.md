@@ -3,7 +3,7 @@
 A simple Python script that organizes files by type and creation date.  
 It groups known formats (like images, videos, and documents) and moves unknown ones to a `lost_files` folder — all safely under user permissions.
 
-## Example Output
+## Output
 
 ```bash
 📊 --- Sort Report ---
